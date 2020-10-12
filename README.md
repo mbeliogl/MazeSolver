@@ -7,10 +7,7 @@ The goal of this solver is to find a path from the start to the end that doesn't
 The GUI portion of the program if resposnible for visualizing the algorithm and highlighting the final path if it exists. 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 316b21c6b79fe34fcbaa7b4524622b6271392e5c
 > ###### A maze is represented by a _.txt_ file in the following format: 
 >
 > - numRows, numCols
@@ -26,10 +23,7 @@ The GUI portion of the program if resposnible for visualizing the algorithm and 
 >   You can use the provided maze files for guidance in creating your own maze
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 316b21c6b79fe34fcbaa7b4524622b6271392e5c
 > ###### Two Agendas:
 >
 > In order to keep track of the locations in the maze that are reachable but still have to be processed,
@@ -46,10 +40,7 @@ The GUI portion of the program if resposnible for visualizing the algorithm and 
 > - The final solution (path) is not affected by the Agenda type 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 316b21c6b79fe34fcbaa7b4524622b6271392e5c
 > ###### Use Maze Solver:
 >
 > 1. In  _Main.java_ find the following line of code:  ``` Maze m = new Maze(<path to maze file>) ```
